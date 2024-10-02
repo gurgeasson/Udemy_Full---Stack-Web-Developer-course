@@ -1,0 +1,26 @@
+body {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: seashell;
+    background-color: black;
+  }
+  div.poster{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    padding: 2%;
+    text-align: center;
+    background-color: black;
+  }
+  img{
+    width: 100%;
+    border: 5px solid seashell;
+  }
+  h1 {
+    font-size: 3rem;
+    text-transform: uppercase;
+  }
+  p {
+    font-size: small;
+  }
